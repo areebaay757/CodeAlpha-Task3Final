@@ -1,0 +1,15 @@
+pandas
+numpy
+nltk
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+torch
+transformers
+wordcloud
+textblob
+spacy
+xlrd
+openpyxl
+
